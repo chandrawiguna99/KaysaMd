@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6285861009691@s.whatsapp.net",
+    "ownerName": "ChandraPedia",
+    "botName": "WhatsApp BOT",
+    "footer": "CHANDRA-WIGUNA",
+    "sessionName": "kayy-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/chndrwgnn_",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Punya",
+        "author": "Chandra"
+    }
+}
